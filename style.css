@@ -1,0 +1,249 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    background-color: #e7ffe7; 
+    color: #313131;
+    font-size: 20px;
+    background-color: #9a9a9a;
+}
+
+header {
+    background-color: #FFC0CB;
+}
+
+.nav_menu .nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-left: 90px;
+    padding-bottom: 30px;
+
+}
+
+.nav li a {
+    padding: 5rem 2rem 2rem 1rem ;
+    text-decoration: none;
+    color: #414141;
+    font-size: 25px;
+    transition: text-decoration 0.3s ease;
+    padding-right: 49px;
+}
+
+.nav li a:hover {
+    color: #E6E6FA;
+}
+
+#sobre_mim h1{
+    font-size: 40px;
+    padding-top: 180px;
+    padding-left: 600px;
+    padding-bottom: 30px;
+    color: #FFDAB9;
+    margin-left: 70px;
+}
+
+#sobre_mim img{
+    border-radius: 800px;
+    flex-direction: column;
+    margin-left: 200px;
+    margin-top: -150px;
+    margin-bottom: 100px;
+    width: 300px;
+    height: 300px;
+}
+
+#sobre_mim h2{
+    font-size: 20px;
+    margin-left: 570px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    color: #FFDAB9;
+}
+
+
+#redes a img{
+    margin: 30px;
+    font-size: 30px;
+    margin-left: 200px;
+    margin-bottom: 50px;
+    margin-top: 40px;
+    width: 100px;
+    height: 100px;
+}
+
+#sites h1{
+    font-size: 40px;
+    color: #FFDAB9;
+    background-color: #ff92a4;
+
+    margin-left: 590px;
+    margin-top: 100px;
+    margin-bottom: 150px;
+    margin-right: 550px;
+    width: 250px;
+    height: 50px;
+    align-items: center;
+    display: flex;
+
+}
+
+.foto1{
+    width: 635px;
+    height: 350px;
+    margin-left: 790px;
+    margin-bottom: 100px;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+
+#sites h3{
+    margin-left: 50px;
+    margin-top: -300px;
+    margin-bottom: 250px;
+    font-size: 25px;
+    margin-right: 800px;
+    color: #FFDAB9;
+}
+
+.link1{
+    display: flex;
+    margin-left: 275px;
+    margin-top: 60x;
+    margin-bottom: -90px;
+    color:#f7abb8 ;
+}
+
+.foto2{
+    width: 635px;
+    height: 350px;
+    margin-bottom: 100px;
+    margin-top: 30px;
+    margin-right: 50px;
+    margin-left: 60px;
+}
+
+#sites h4{
+    margin-left: 750px;
+    margin-top: -300px;
+    margin-bottom: 250px; 
+    font-size: 25px;
+    color: #FFDAB9;
+}
+
+.link2{
+    display: flex;
+    margin-left: 1040px;
+    margin-top: 60x;
+    margin-bottom: -90px;
+    color:#f7abb8 ;
+}
+
+.foto3{
+    width: 635px;
+    height: 300px;
+    margin-left: 790px;
+    margin-bottom: 100px;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+
+.link3{
+    display: flex;
+    margin-left: 275px;
+    margin-top: 60x;
+    margin-bottom: -90px;
+    color:#f7abb8 ;
+}
+
+.foto4{
+    width: 635px;
+    height: 350px;
+    margin-bottom: 100px;
+    margin-top: 30px;
+    margin-right: 50px;
+    margin-left: 60px;
+}
+
+.link4{
+    display: flex;
+    margin-left: 1040px;
+    margin-top: 60x;
+    margin-bottom: -90px;
+    color:#f7abb8 ;
+}
+
+.foto5{
+    width: 635px;
+    height: 350px;
+    margin-left: 790px;
+    margin-bottom: 100px;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+
+.link5{
+    display: flex;
+    margin-left: 275px;
+    margin-top: 60x;
+    margin-bottom: -90px;
+    color:#f7abb8 ;
+}
+
+.foto6{
+    width: 635px;
+    height: 340px;
+    margin-bottom: 100px;
+    margin-top: 30px;
+    margin-right: 50px;
+    margin-left: 60px;
+}
+
+.link6{
+    display: flex;
+    margin-left: 1040px;
+    margin-top: 60x;
+    margin-bottom: -90px;
+    color:#f7abb8 ;
+}
+
+.foto7{
+    width: 635px;
+    height: 350px;
+    margin-left: 790px;
+    margin-bottom: 100px;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+
+.link7{
+    display: flex;
+    margin-left: 275px;
+    margin-top: 60x;
+    margin-bottom: -90px;
+    color:#f7abb8 ;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+    bottom: 0;
+    width: 100%;
+}
+  
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+  
+footer a:hover {
+    text-decoration: underline;
+  
+  }
